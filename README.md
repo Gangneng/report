@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-- [인공지능 사례 분석](https://github.com/Kim-hee-ah/report/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C(2020_05_21).ipynb)
+- [인공지능 사례 분석](1주차_과제(2020_05_21).ipynb)
 
 ## 2주차 과제 (2020.05.29)
 
